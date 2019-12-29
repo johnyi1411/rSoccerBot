@@ -1,0 +1,24 @@
+{
+  "name": "rSoccerBot",
+  "version": "1.0.0",
+  "description": "Listens to match threads on r/soccers to create data visualizations of players mentioned in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnyi1411/rSoccerBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnyi1411/rSoccerBot/issues"
+  },
+  "homepage": "https://github.com/johnyi1411/rSoccerBot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "snoowrap": "^1.20.1"
+  }
+}
