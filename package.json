@@ -1,5 +1,5 @@
 {
-  "name": "rSoccerBot",
+  "name": "r-soccer-bot",
   "version": "1.0.0",
   "description": "Listens to match threads on r/soccers to create data visualizations of players mentioned in real-time.",
   "main": "index.js",
