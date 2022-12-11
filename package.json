@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/johnyi1411/rSoccerBot#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "snoowrap": "^1.20.1"
   }
 }
